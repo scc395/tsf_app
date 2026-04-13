@@ -1,1 +1,5 @@
-streamlit\nnumpy\nmatplotlib\nscipy\nstatsmodels
+streamlit
+numpy
+matplotlib
+scipy
+statsmodels
