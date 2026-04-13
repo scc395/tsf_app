@@ -1,0 +1,1 @@
+streamlit\nnumpy\nmatplotlib\nscipy\nstatsmodels
